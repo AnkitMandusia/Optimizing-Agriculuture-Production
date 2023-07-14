@@ -25,7 +25,7 @@ Chickpea requires high pH in the soil, while Rice requires a significant amount 
 These observations help in understanding the relationships between different features and the target variable (crop label). It provides valuable insights into the factors influencing crop growth and can guide the feature selection process for model building.
 
 EDA For Crop Yields:
-![image](https://github.com/AnkitMandusia/Optimizing-Agriculuture-Production/assets/53564761/bf517a45-cdb9-44eb-bcfe-4e8b59ac0a64)
+**![image](https://github.com/AnkitMandusia/Optimizing-Agriculuture-Production/assets/53564761/bf517a45-cdb9-44eb-bcfe-4e8b59ac0a64)**
 
 
 ![image](https://github.com/AnkitMandusia/Optimizing-Agriculuture-Production/assets/53564761/d416b313-5ff5-4646-909a-dfff99cbaf95)
