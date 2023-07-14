@@ -22,9 +22,9 @@ These observations help in understanding the relationships between different fea
 
 ![image](https://github.com/AnkitMandusia/Optimizing-Agriculuture-Production/assets/53564761/e45c3e1c-53d9-43ed-8d80-96543980d12e)
 
-*Model Building:* The code snippet demonstrates the implementation of several classification models for crop prediction. Here are some key points related to model building:
+**Model Building:** The code snippet demonstrates the implementation of several classification models for crop prediction. Here are some key points related to model building:
 
-**K-Nearest Neighbors (KNN): **The KNN algorithm is used with different values of k (number of neighbors) and cross-validation to find the optimal value. The performance of the model is evaluated using classification report and confusion matrix.
+**K-Nearest Neighbors (KNN):**The KNN algorithm is used with different values of k (number of neighbors) and cross-validation to find the optimal value. The performance of the model is evaluated using classification report and confusion matrix.
 **Support Vector Classifier (SVC):** Randomized search cross-validation is employed to find the best hyperparameters for SVC. The resulting model is evaluated using the classification report.
 **Logistic Regression:** Randomized search cross-validation is used to optimize the hyperparameters for Logistic Regression. The performance of the model is evaluated using the classification report.
 **Random Forest Classifier:** Randomized search cross-validation is performed to find the optimal number of estimators for the Random Forest model. The resulting model is evaluated using the classification report.
